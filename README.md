@@ -1,4 +1,4 @@
-# Simple Int64 Calculator
+# Simple Calculator
 
 This is a simple command line-calculator program written in Go. It takes 3 arguments: 2 numeric values and an mathematical operator.
 
